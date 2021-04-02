@@ -20,7 +20,7 @@
 - 执行命令`make flash monitor`将编译生成的镜像烧写到 ESP32 开发板上面，并查看串口输出。
 - 在客戶端打開瀏覽器，輸入 www.espressif.com ，獲得網頁返回。
 
-### 现象
+### 现象  
 
 ![](http://i.imgur.com/ED5kuKJ.jpg)
 
